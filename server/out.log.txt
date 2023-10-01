@@ -1,0 +1,551 @@
+4300 undefined 8000
+4300 undefined 8000
+4300 undefined 8000
+4300 undefined 8000
+4300 undefined 8000
+4300 undefined 8000
+4300 undefined 8000
+8 planets found !
+Listening on port 8000 
+8 planets found !
+Listening on port 8000 
+4300 undefined 8000
+8 planets found !
+Listening on port 8000 
+8 planets found !
+Listening on port 8000 
+8 planets found !
+Listening on port 8000 
+8 planets found !
+Listening on port 8000 
+8 planets found !
+Listening on port 8000 
+8 planets found !
+Listening on port 8000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /static/js/main.df1adea8.js HTTP/1.1" 200 473680 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /sound/click.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /sound/typing.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /sound/warning.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /sound/success.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /sound/abort.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /img/background-large.jpg HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /img/glow.png HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:48 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:49 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:03:49 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /static/js/main.df1adea8.js HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /sound/click.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /sound/success.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /sound/typing.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /sound/warning.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /sound/abort.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /img/background-large.jpg HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /img/glow.png HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:01 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+{
+  launchDate: 2023-09-18T00:00:00.000Z,
+  mission: 'test1',
+  rocket: 'Explorer IS1',
+  target: 'Kepler-1652 b',
+  customers: [ 'Adriano', 'NASA' ],
+  upcoming: true,
+  success: true,
+  flightNumber: 101
+}
+::1 - - [18/Sep/2023:01:04:12 +0000] "POST /launches HTTP/1.1" 201 189 "http://localhost:5000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:04:12 +0000] "GET /launches HTTP/1.1" 200 391 "http://localhost:5000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+{
+  launchDate: 2023-09-18T00:00:00.000Z,
+  mission: 'test2',
+  rocket: 'Explorer IS1',
+  target: 'Kepler-1652 b',
+  customers: [ 'Adriano', 'NASA' ],
+  upcoming: true,
+  success: true,
+  flightNumber: 102
+}
+::1 - - [18/Sep/2023:01:05:00 +0000] "POST /launches HTTP/1.1" 201 189 "http://localhost:5000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:05:00 +0000] "GET /launches HTTP/1.1" 200 581 "http://localhost:5000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+{
+  launchDate: 2023-09-18T00:00:00.000Z,
+  mission: 'test544',
+  rocket: 'Explorer IS1',
+  target: 'Kepler-1652 b',
+  customers: [ 'Adriano', 'NASA' ],
+  upcoming: true,
+  success: true,
+  flightNumber: 103
+}
+::1 - - [18/Sep/2023:01:05:16 +0000] "POST /launches HTTP/1.1" 201 191 "http://localhost:5000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [18/Sep/2023:01:05:16 +0000] "GET /launches HTTP/1.1" 200 773 "http://localhost:5000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+5000 undefined 5000
+Listening on port 5000 
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+8 planets found !
+Listening on port 5000 
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+5000 undefined 5000
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+5000 undefined 5000
+Listening on port 5000 
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /static/js/main.df1adea8.js HTTP/1.1" 200 473680 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [22/Sep/2023:00:47:57 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+8 planets found !
+Listening on port 5000 
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+8 planets found !
+Listening on port 5000 
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+MongoDB connection ready !
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /static/js/main.2c2d6a90.js HTTP/1.1" 200 473677 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [27/Sep/2023:00:00:42 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+MongoDB connection ready !
+MongoDB connection ready !
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+5000 undefined 5000
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets found !
+Listening on port 5000 
+MongoDB connection ready !
+MongoDB connection ready !
+MongoDB connection ready !
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+Listening on port 5000 
+8 planets found !
+8 planets found !
+Listening on port 5000 
+Listening on port 5000 

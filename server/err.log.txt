@@ -1,0 +1,200 @@
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32) {
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32) {
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32) {
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32) {
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32) {
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32) {
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32) {
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32) {
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongoParseError: options usefindandmodify, usecreateindex are not supported
+    at parseOptions (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\connection_string.js:273:15)
+    at new MongoClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongodb\lib\mongo_client.js:48:63)
+    at NativeConnection.createClient (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:288:14)
+    at NativeConnection.openUri (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\connection.js:755:34)
+    at Mongoose.connect (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\node_modules\mongoose\lib\index.js:404:15)
+    at startServer (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:22:20)
+    at Object.<anonymous> (C:\Users\eio\workspace-estudo\nodejs\nasa-project\server\src\server.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)

@@ -549,3 +549,68 @@ Listening on port 5000
 8 planets found !
 Listening on port 5000 
 Listening on port 5000 
+MONGO mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+5000 undefined 5000
+mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+MONGO mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+5000 undefined 5000
+mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+MONGO mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+5000 undefined 5000
+mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+MONGO mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+5000 undefined 5000
+mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+MONGO mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+5000 undefined 5000
+mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+MONGO mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+5000 undefined 5000
+mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+MongoDB connection ready !
+MongoDB connection ready !
+MONGO mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+MongoDB connection ready !
+5000 undefined 5000
+mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+MongoDB connection ready !
+MONGO mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+5000 undefined 5000
+mongodb+srv://adriano_campos:cutU2O7AIgBQ1C4G@cluster0.9ocmnpy.mongodb.net/nasa?retryWrites=true&w=majority
+MongoDB connection ready !
+MongoDB connection ready !
+8 habitable planets found !
+Listening on port 5000 
+8 habitable planets found !
+Listening on port 5000 
+8 habitable planets found !
+Listening on port 5000 
+MongoDB connection ready !
+8 habitable planets found !
+Listening on port 5000 
+8 habitable planets found !
+Listening on port 5000 
+MongoDB connection ready !
+8 habitable planets found !
+Listening on port 5000 
+8 habitable planets found !
+Listening on port 5000 
+8 habitable planets found !
+Listening on port 5000 
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /history HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /static/js/main.f9b021d8.js HTTP/1.1" 200 473691 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /static/js/main.f9b021d8.js.map HTTP/1.1" 200 1673762 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:05 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:06 +0000] "GET /v1/launches HTTP/1.1" 200 3186 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:06 +0000] "GET /v1/planets HTTP/1.1" 200 247 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:06 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:5000/history" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:19 +0000] "POST /v1/launches HTTP/1.1" 201 195 "http://localhost:5000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2023:19:48:20 +0000] "GET /v1/launches HTTP/1.1" 200 3382 "http://localhost:5000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
